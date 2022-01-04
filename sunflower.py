@@ -27,7 +27,7 @@ while height > 0:
     day += 1
 
 print("Your sunflower is gone ...\n")
-print(f"Sunflower surived {day} days")
+print(f"Sunflower survived {day} days")
 print(f'Sunflower`s max height was {max_height}"\n\n')
 
 print("Good luck with your next sunflower")
