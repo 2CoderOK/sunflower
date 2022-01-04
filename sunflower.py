@@ -6,7 +6,7 @@ max_height = 1
 day = 1
 good_days = 3
 
-print("Good morning little flower!!!\n")
+print("Good morning a little sunflower!!!\n")
 
 while height > 0:
     print(f"Day {day}")
